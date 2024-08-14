@@ -1,8 +1,4 @@
 # ninapatafi
-<<<<<<< HEAD
-
-=======
->>>>>>> b3e6f8946b89a82f7d1aa6e08ae20601e26fad8f
 <h2 align="left">Hi 👋! My name is Nina and I'm a web developer from Canada 🍁</h2>
 
 ###
